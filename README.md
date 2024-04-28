@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Images of the "movie-app"
+![Screenshot 2024-04-28 203844](https://github.com/Deep5Varshney/movies/assets/137312194/ac967542-5163-466f-b982-b39aa08026d5)
+![Screenshot 2024-04-28 203911](https://github.com/Deep5Varshney/movies/assets/137312194/53133602-b5a0-4f02-b169-f5896a1cff7c)
+![Screenshot 2024-04-28 203928](https://github.com/Deep5Varshney/movies/assets/137312194/2f17abc0-e5d0-4837-9682-1993ab085e96)
+![Screenshot 2024-04-28 203958](https://github.com/Deep5Varshney/movies/assets/137312194/4d69668c-3fe4-4e47-a70a-04537d86d9d0)
+![Screenshot 2024-04-28 204014](https://github.com![Screenshot 2024-04-28 204027](https://github.com/Deep5Varshney/movies/assets/137312194/9f725e2e-6d3f-4fee-9f85-4312fbba161d)
+/Deep5Varshney/movies/assets/137312194/6d5aaa7f-4e28-44c3-b350-3f974966f824)
+![Screenshot 2024-04-28 204102](https://github.com/Deep5Varshney/movies/assets/137312194/e5ee29b4-f85c-4e15-a829-93d22f706a2a)
+![Screenshot 2024-04-28 204139](https://github.com/Deep5Varshney/movies/assets/137312194/26ca0b49-645a-43c1-8d09-623186060e8c)
+
+
