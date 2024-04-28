@@ -36,3 +36,67 @@
     transform: rotate(360deg);
   }
 }
+.banner-card{
+  width:100vw;
+  margin-top:1vh;
+  margin-bottom: 3vh;
+  position:relative;
+  height:70vh;
+  color:white;
+}
+
+.banner-img{
+  height:90vh;
+  width:100vw;
+}
+
+.banner-title{
+  position:absolute;
+  top:55vh;
+  left:5vw;
+}
+
+.banner-text{
+  position:absolute;
+  top:65vh;
+  left:5vw;
+  overflow: hidden;
+}
+
+.movies-list{
+  display:flex;
+  flex-wrap: wrap;
+  padding:1rem;
+  justify-content:center;
+  margin-top:30vh;
+}
+
+.movies-card{
+  width:20vw;
+  margin:1rem;
+  color: azure;
+  position:relative;
+}
+.movies-title{
+  position:absolute;
+  top:1rem;
+  left:1rem;
+}
+
+.movies-btn{
+  position:absolute;
+  bottom:2rem;
+}
+
+.favourite-genres{
+  padding:3rem;
+}
+.favourite-table{
+  padding:3rem;
+}
+
+.trending{
+  position:absolute;
+  top:110vh;
+  left:45vw;
+}
